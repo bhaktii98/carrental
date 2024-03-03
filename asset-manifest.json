@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carrental/static/css/main.b3de452a.css",
-    "main.js": "/carrental/static/js/main.a5f2d0ae.js",
+    "main.js": "/carrental/static/js/main.3413317e.js",
     "static/media/heroes-bg.png": "/carrental/static/media/heroes-bg.71ab9a13d73de3860763.png",
     "static/media/main.png": "/carrental/static/media/main.70cd75042bdf42515d92.png",
     "static/media/pfp2.jpg": "/carrental/static/media/pfp2.fd9b1716200244ed8905.jpg",
@@ -27,10 +27,10 @@
     "static/media/appstore.svg": "/carrental/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
     "index.html": "/carrental/index.html",
     "main.b3de452a.css.map": "/carrental/static/css/main.b3de452a.css.map",
-    "main.a5f2d0ae.js.map": "/carrental/static/js/main.a5f2d0ae.js.map"
+    "main.3413317e.js.map": "/carrental/static/js/main.3413317e.js.map"
   },
   "entrypoints": [
     "static/css/main.b3de452a.css",
-    "static/js/main.a5f2d0ae.js"
+    "static/js/main.3413317e.js"
   ]
 }
